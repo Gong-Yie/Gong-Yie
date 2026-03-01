@@ -1,16 +1,21 @@
-## Hi there 👋
+<!-- 动态头部 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=66ccff&height=150&section=header&text=Gong-Yie&fontColor=ffffff&fontSize=70&fontAlignY=32&animation=twinkling" />
+</p>
 
-<!--
-**Gong-Yie/Gong-Yie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 打字效果 -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;A+Rookie+CTFer+from+AHNU;Always+Learning+New+Things&center=true&width=500&height=45&color=66ccff&vCenter=true&size=22">
+</h2>
 
-Here are some ideas to get you started:
+<!-- 关于我 -->
+<h2 align="center">About Me / 关于我</h2>
+<p align="center">I'm a student at <strong>AHNU</strong> (Anhui Normal University) — 我是安徽师范大学的学生</p>
+<p align="center">A rookie <strong>CTF player</strong> (Capture The Flag) — 一个菜鸟 CTFer</p>
+<p align="center">Love <strong>VOCALOID</strong>, dream to become a <strong>Vocaloid producer</strong> (P主) — 喜欢 VOCALOID，梦想成为 P主</p>
+<p align="center">Eager to become a web security expert — 希望成为 web 高手</p>
+<p align="center">Looking forward to learning from all the masters here — 渴望向各位大手子学习</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 动态尾部 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=66ccff&height=100&section=footer" />
