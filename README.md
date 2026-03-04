@@ -10,11 +10,12 @@
 
 <!-- 关于我 -->
 <h2 align="center">About Me / 关于我</h2>
-<p align="center">I'm a student at <strong>AHNU</strong> (Anhui Normal University) — 我是安徽师范大学的学生</p>
-<p align="center">A rookie <strong>CTF player</strong> (Capture The Flag) — 一个菜鸟 CTFer</p>
-<p align="center">Love <strong>VOCALOID</strong>, dream to become a <strong>Vocaloid producer</strong> (P主) — 喜欢 VOCALOID，梦想成为 P主</p>
-<p align="center">Eager to become a web security expert — 希望成为 web 高手</p>
-<p align="center">Looking forward to learning from all the masters here — 渴望向各位大手子学习</p>
+<p align="center">坐标安徽师范大学，这里是工一阵~</p>
+<p align="center">主线任务是努力打怪升级的 CTF 菜鸟，职业是Web</p>
+<p align="center">支线任务是<strong>VOCALOID</strong>重度狂热粉，终极梦想是成为神仙 P 主！</p>
+<p align="center">目前正在悄悄点亮包括折腾个人博客、写聊天机器人在内的各种奇奇怪怪技能树。</p>
+<p align="center">期待和各位大手子一起交流进步，带带菜鸟！</p>
+<p align="center">欢迎加Q<a href="https://qm.qq.com/q/nKADRLbjC8">3750387410</a>交流 : P</p>
 
 <!-- 动态尾部 -->
 <p align="center">
