@@ -15,7 +15,6 @@
 <p align="center">支线任务是<strong>VOCALOID</strong>重度狂热粉，终极梦想是成为神仙 P 主！</p>
 <p align="center">目前正在悄悄点亮包括折腾个人博客、写聊天机器人在内的各种奇奇怪怪技能树。</p>
 <p align="center">期待和各位大手子一起交流进步，带带菜鸟！</p>
-<p align="center">欢迎加Q<a href="https://qm.qq.com/q/nKADRLbjC8">3750387410</a>交流 : P</p>
 
 <!-- 动态尾部 -->
 <p align="center">
