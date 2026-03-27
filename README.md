@@ -19,3 +19,5 @@
 <!-- 动态尾部 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=66ccff&height=100&section=footer" />
+
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=Gong-Yie&show_icons=true)
