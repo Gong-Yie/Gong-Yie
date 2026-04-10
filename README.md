@@ -11,9 +11,9 @@
 <!-- 关于我 -->
 <h2 align="center">About Me / 关于我</h2>
 <p align="center">坐标安徽师范大学，这里是工一阵~</p>
-<p align="center">主线任务是努力打怪升级的 CTF 菜鸟，职业是Web</p>
+<p align="center">主线任务是努力打怪升级的 CTF 菜鸟，职业是Web，Misc</p>
 <p align="center">支线任务是<strong>VOCALOID</strong>重度狂热粉，终极梦想是成为神仙 P 主！</p>
-<p align="center">目前正在悄悄点亮包括折腾个人博客、写聊天机器人在内的各种奇奇怪怪技能树。</p>
+<p align="center">目前正在学习agent开发</p>
 <p align="center">期待和各位大手子一起交流进步，带带菜鸟！</p>
 
 <!-- 动态尾部 -->
