@@ -22,3 +22,4 @@
 
 ![GitHub Stats](profile/stats.svg)
 ![Top Languages](profile/top-langs.svg)
+![Snake](https://raw.githubusercontent.com/Gong-Yie/Gong-Yie/2e74d3e115d8aee495a2890231cbb794bc20b4f1/github-contribution-grid-snake.svg)
