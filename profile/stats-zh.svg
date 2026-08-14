@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="180" viewBox="0 0 420 180" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub 概览</title>
+  <desc id="desc">Public repositories 14, total stars 14, total commits 285, contributed to 31 repositories.</desc>
+  <style>
+    .card { fill: #f6f8fa; stroke: #d0d7de; }
+    .title { fill: #0969da; font: 600 19px -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", sans-serif; }
+    .label { fill: #57606a; font: 14px -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", sans-serif; }
+    .value { fill: #1f2328; font: 600 17px -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", sans-serif; }
+    .accent { fill: #54aeff; }
+    @media (prefers-color-scheme: dark) {
+      .card { fill: #0d1117; stroke: #30363d; }
+      .title { fill: #58a6ff; }
+      .label { fill: #8b949e; }
+      .value { fill: #e6edf3; }
+    }
+  </style>
+  <rect class="card" x="0.5" y="0.5" width="419" height="179" rx="6" />
+  <rect class="accent" x="22" y="22" width="4" height="22" rx="2" />
+  <text class="title" x="38" y="40">GitHub 概览</text>
+  <text class="label" x="24" y="82">Public Repos</text>
+  <text class="value" x="174" y="82" text-anchor="end">14</text>
+  <text class="label" x="226" y="82">Total Stars</text>
+  <text class="value" x="396" y="82" text-anchor="end">14</text>
+  <text class="label" x="24" y="121">Total Commits</text>
+  <text class="value" x="174" y="121" text-anchor="end">285</text>
+  <text class="label" x="226" y="121">Contributed To</text>
+  <text class="value" x="396" y="121" text-anchor="end">31</text>
+</svg>
