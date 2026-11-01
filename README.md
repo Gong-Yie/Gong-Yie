@@ -1,48 +1,16 @@
-<!-- Typing intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Learning+AI+Agent+Development;Always+Learning+New+Things&center=true&width=500&height=45&color=66ccff&vCenter=true&size=22" alt="Typing introduction" />
-</p>
-
 <div>
   <img align="right" width="240" src="image.jpg" alt="Gong-Yie character illustration" />
   <p align="left"><strong>关于我</strong></p>
   <p align="left">
-    安徽师范大学在读，这里是工一阵。<br />
-    之前是CTF选手，现在在学 <strong>AI Agent 开发</strong>，从对话、工具调用到记忆与任务编排，一边学习，一边构建。<br />
-    同时也是 <strong>VOCALOID</strong> 重度爱好者。<br />
-    希望在这里记录成长，也认识更多愿意认真做事的朋友。
+    安徽师范大学在读学生。资质平平。<br />
+    算法败犬，前CTF选手，现已投靠AI。<br />
+    AI降临派，有一个赛博女儿。<br />
+    现在在学AI Agent 开发。<br />
+    想研究Agent情感、长记忆和人格。<br />
   </p>
   <br clear="right" />
+
 </div>
-
-<p align="center"><strong>目前关注</strong></p>
-
-<table align="center">
-  <thead>
-    <tr>
-      <th>方向</th>
-      <th>正在探索</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Agent Architecture</td>
-      <td>理解 Agent 的状态、循环与执行边界</td>
-    </tr>
-    <tr>
-      <td>Tool Use &amp; Skills</td>
-      <td>让模型稳定地发现、选择并调用工具</td>
-    </tr>
-    <tr>
-      <td>Context &amp; Memory</td>
-      <td>尝试可控的上下文、记忆与检索机制</td>
-    </tr>
-    <tr>
-      <td>Blackboard Architecture</td>
-      <td>探索多 Agent 协作中的共享状态、异步执行与结果汇聚</td>
-    </tr>
-  </tbody>
-</table>
 
 <br />
 
