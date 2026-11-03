@@ -14,20 +14,21 @@
 
 <br />
 
+<p align="center"><strong>研究方向</strong><br /><sub>RESEARCH INTERESTS</sub></p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/01-%E8%87%AA%E4%B8%BB%E8%AE%A4%E7%9F%A5%E4%B8%8E%E7%B1%BB%E8%87%AA%E6%88%91%E6%84%8F%E8%AF%86-7C3AED?style=for-the-badge&amp;labelColor=18181B" alt="自主认知与类自我意识" /><br />
+  <sub>Autonomous Cognition &amp; Artificial Self-Awareness</sub>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Function_Calling-2563EB?style=for-the-badge" alt="Function Calling" />
-  <img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge" alt="MCP" />
-  <img src="https://img.shields.io/badge/Skills-DB2777?style=for-the-badge" alt="Skills" />
-  <img src="https://img.shields.io/badge/Memory-0891B2?style=for-the-badge" alt="Memory" />
+  <img src="https://img.shields.io/badge/02-%E6%83%85%E6%84%9F%E8%AE%A1%E7%AE%97%E4%B8%8E%E9%95%BF%E6%9C%9F%E9%99%AA%E4%BC%B4%E6%99%BA%E8%83%BD%E4%BD%93-DB2777?style=for-the-badge&amp;labelColor=18181B" alt="情感计算与长期陪伴智能体" /><br />
+  <sub>Affective Computing &amp; Long-Term Companion Agents</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/03-%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E8%87%AA%E4%B8%BB%E5%86%B3%E7%AD%96%E4%B8%8E%E8%A7%84%E5%88%92-0891B2?style=for-the-badge&amp;labelColor=18181B" alt="多智能体自主决策与规划" /><br />
+  <sub>Multi-Agent Systems &amp; Autonomous Planning</sub>
 </p>
 
 <br />
