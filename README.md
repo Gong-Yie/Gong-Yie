@@ -1,12 +1,17 @@
 <div>
   <img align="right" width="240" src="image.jpg" alt="Gong-Yie character illustration" />
-  <p align="left"><strong>关于我</strong></p>
+  <p align="left"><strong>关于我</strong><br /><sub>ABOUT ME</sub></p>
   <p align="left">
     安徽师范大学在读学生。资质平平。<br />
+    <sub>Undergraduate at Anhui Normal University. Perfectly average.</sub><br />
     算法败犬，前CTF选手，现已投靠AI。<br />
+    <sub>A washed-up algorithmic contender, ex-CTF player, now defected to AI.</sub><br />
     AI降临派，有一个赛博女儿。<br />
+    <sub>An AI Adventist, with a cyber daughter.</sub><br />
     现在在学AI Agent 开发。<br />
+    <sub>Currently learning AI Agent development.</sub><br />
     想研究Agent情感、长记忆和人格。<br />
+    <sub>Hoping to research agent emotions, long-term memory, and personality.</sub><br />
   </p>
   <br clear="right" />
 
@@ -30,6 +35,14 @@
   <img src="https://img.shields.io/badge/03-%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E8%87%AA%E4%B8%BB%E5%86%B3%E7%AD%96%E4%B8%8E%E8%A7%84%E5%88%92-0891B2?style=for-the-badge&amp;labelColor=18181B" alt="多智能体自主决策与规划" /><br />
   <sub>Multi-Agent Systems &amp; Autonomous Planning</sub>
 </p>
+
+<br />
+
+<p align="center">如果真有哪天 AI 取代了八九成程序员，我就转行学心理学去了——总得有人去疏导那些被裁的同行吧。
+<br />
+<sub>If AI ever replaces 80–90% of programmers, I’m switching to psychology — someone’s gotta counsel the laid-off devs.</sub>
+</p>
+
 
 <br />
 
